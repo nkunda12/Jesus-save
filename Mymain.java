@@ -8,7 +8,7 @@ public class Mymain {
 		
 		NoMain myObj2 = new NoMain("Boss");
 		
-		NoMain myObj3 = new NoMain(2);
+		NoMain myObj3 = new NoMainobj(2);
 		
 		NoMain myObj4 = new NoMain("50",51);
 		
